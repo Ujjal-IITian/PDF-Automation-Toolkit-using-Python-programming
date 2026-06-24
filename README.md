@@ -6,7 +6,7 @@ A collection of Python utilities developed to automate common PDF-related tasks.
 
 ## ✨ Features
 
-This toolkit currently includes:
+The toolkit currently includes:
 
 * 📑 Merge multiple PDF files
 * ✂️ Split PDFs using custom page ranges
@@ -17,7 +17,7 @@ This toolkit currently includes:
 
 ---
 
-## 🛠 Modules Used
+## 🛠 Python Modules & Libraries Used
 
 * `os`
 * `pypdf`
@@ -26,59 +26,38 @@ This toolkit currently includes:
 
 ---
 
-## 📦 Utilities
+## 📦 Repository Contents
 
-| Utility        | Description                            |
-| -------------- | -------------------------------------- |
-| PDF Merger     | Merge multiple PDFs into one document  |
-| PDF Splitter   | Split PDFs using custom page ranges    |
-| Image to PDF   | Convert images into a PDF              |
-| Text Extractor | Extract text from PDF documents        |
-| PDF to Speech  | Read PDF text using Windows Speech API |
-| PDF Encryptor  | Encrypt PDF files with a password      |
+This repository contains:
 
----
-
-## 📂 Repository Structure
-
-```text
-PDF-Automation-Toolkit/
-│
-├── PDF Merger.py
-├── PDF Splitter.py
-├── Image to PDF.py
-├── PDF to Speech.py
-├── PDF Text Extractor.py
-├── PDF Encryptor.py
-├── Demo Video.mp4
-├── PDF Toolkit.zip
-└── README.md
-```
+* 📁 **PDF Toolkit.zip** – Contains the complete collection of Python utilities.
+* 🎥 **Demo Video** – Demonstrates the PDF-to-Speech utility.
+* 📄 **README.md** – Project overview and documentation.
 
 ---
 
 ## 🚀 Why I Built This
 
-Instead of relying on multiple online tools for different PDF operations, I wanted to build a collection of Python utilities that perform these tasks locally.
+Managing PDF documents often involves repetitive tasks that can be automated.
 
-This project also helped me gain practical experience with Python modules related to file handling, PDF processing, and automation.
+Instead of relying on multiple online tools, I wanted to build a collection of lightweight Python utilities that perform these operations locally.
+
+This project also helped me gain practical experience with Python libraries related to document processing, automation, and file handling.
 
 ---
 
 ## ▶️ How to Use
 
-1. Download or clone the repository.
-2. Install the required Python modules.
-3. Run the desired utility.
-4. Follow the prompts displayed in the terminal.
+1. Download **PDF Toolkit.zip**.
+2. Extract the ZIP file.
+3. Open the desired Python script.
+4. Run the script and follow the terminal prompts.
 
 ---
 
 ## 📹 Demo
 
-A demonstration video of the **PDF-to-Speech** utility is included in this repository.
-
-The remaining utilities can be explored directly through the source code.
+The included video demonstrates the **PDF-to-Speech** utility. The remaining tools can be explored through the source code inside the ZIP file.
 
 ---
 
@@ -87,8 +66,8 @@ The remaining utilities can be explored directly through the source code.
 * Graphical User Interface (GUI)
 * Batch PDF processing
 * OCR support for scanned PDFs
-* Watermark addition
 * PDF compression
+* Watermark insertion
 * Metadata editing
 
 ---
