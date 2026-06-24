@@ -30,7 +30,7 @@ The toolkit currently includes:
 
 This repository contains:
 
-* 📁 **PDF Toolkit.zip** – Contains the complete collection of Python utilities.
+* 📁 **PDF utility.zip** – Contains the complete collection of Python utilities.
 * 🎥 **Demo Video** – Demonstrates the PDF-to-Speech utility.
 * 📄 **README.md** – Project overview and documentation.
 
@@ -48,7 +48,7 @@ This project also helped me gain practical experience with Python libraries rela
 
 ## ▶️ How to Use
 
-1. Download **PDF Toolkit.zip**.
+1. Download **PDF utility.zip**.
 2. Extract the ZIP file.
 3. Open the desired Python script.
 4. Run the script and follow the terminal prompts.
